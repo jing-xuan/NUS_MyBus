@@ -1,0 +1,8 @@
+NUS My Bus aims to be a redesign of the NUS NextBus app, with some improvements:
+1. Addition of SBS Buses
+2. Ability to save frequented bus stops and have them appear first
+3. Better UI
+
+Libraries and Frameworks:
+1. Node.js and Express
+2. Bootstrap

@@ -1,0 +1,109 @@
+caption:"AS5"	name:"AS7"
+caption:"BIZ 2"	name:"BIZ2"
+caption:"Botanic Gardens MRT"	name:"BG-MRT"
+caption:"Central Library"	name:"CENLIB"
+caption:"College Green"	name:"CGH"
+caption:"COM2"	name:"COM2"
+caption:"EA"	name:"BLK-EA-OPP"
+caption:"Information Technology"	name:"COMCEN"
+caption:"Kent Ridge Bus Terminal"	name:"KR-BT"
+caption:"Kent Ridge MRT"	name:"KR-MRT"
+caption:"Kent Vale"	name:"KV"
+caption:"LT13"	name:"LT13"
+caption:"LT27"	name:"LT27"
+caption:"Museum"	name:"MUSEUM"
+caption:"Oei Tiong Ham Building"	name:"BUKITTIMAH-BTC2"
+caption:"Opp HSSML"	name:"HSSML-OPP"
+caption:"Opp Kent Ridge MRT"	name:"KR-MRT-OPP"
+caption:"Opp NUSS"	name:"NUSS-OPP"
+caption:"Opp TCOMS"	name:"PGP12-OPP"
+caption:"Opp UHall"	name:"UHALL-OPP"
+caption:"Opp University Health Centre"	name:"STAFFCLUB-OPP"
+caption:"Opp YIH"	name:"YIH-OPP"
+caption:"PGP Hse 15"	name:"PGP14-15"
+caption:"PGP Hse 7"	name:"PGP7"
+caption:"PGPR"	name:"PGP"
+caption:"Prince George's Park"	name:"PGPT"
+caption:"Raffles Hall"	name:"RAFFLES"
+caption:"S17"	name:"S17"
+caption:"TCOMS"	name:"PGP12"
+caption:"The Japanese Primary School"	name:"JP-SCH-16151"
+caption:"UHall"	name:"UHALL"
+caption:"University Health Centre"	name:"STAFFCLUB"
+caption:"University Town"	name:"UTown"
+caption:"Ventus (Opp LT13)"	name:"LT13-OPP"
+caption:"YIH"	name:"YIH"
+
+Captions:
+AS5
+BIZ 2
+Botanic Gardens MRT
+Central Library
+College Green
+COM2
+EA
+Information Technology
+Kent Ridge Bus Terminal
+Kent Ridge MRT
+Kent Vale
+LT13
+LT27
+Museum
+Oei Tiong Ham Building
+Opp HSSML
+Opp Kent Ridge MRT
+Opp NUSS
+Opp TCOMS
+Opp UHall
+Opp University Health Centre
+Opp YIH
+PGP Hse 15
+PGP Hse 7
+PGPR
+Prince George's Park
+Raffles Hall
+S17
+TCOMS
+The Japanese Primary School
+UHall
+University Health Centre
+University Town
+Ventus (Opp LT13)
+YIH
+
+Names:
+AS7
+BIZ2
+BG-MRT
+CENLIB
+CGH
+COM2
+BLK-EA-OPP
+COMCEN
+KR-BT
+KR-MRT
+KV
+LT13
+LT27
+MUSEUM
+BUKITTIMAH-BTC2
+HSSML-OPP
+KR-MRT-OPP
+NUSS-OPP
+PGP12-OPP
+UHALL-OPP
+STAFFCLUB-OPP
+YIH-OPP
+PGP14-15
+PGP7
+PGP
+PGPT
+RAFFLES
+S17
+PGP12
+JP-SCH-16151
+UHALL
+STAFFCLUB
+UTown
+LT13-OPP
+YIH

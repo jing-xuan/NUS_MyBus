@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+    <title>
+      NUS MyBus
+    </title>
+    <style>
+      body {
+        margin: 0px;
+        border-top: solid 7px #003D7C;
+      }
+      form {
+        display: flex;
+        flex-direction: row;
+        width: 80%;
+        position: absolute;
+        top: 15%;
+        left: 10%;
+        border-radius: 10px;
+        box-shadow: 0 0 3px 1px #003D7C;
+      }
+      input {
+        font-family: 'Lato';
+        width: 60%;
+        text-align: center;
+        font-size: 1.3em;
+        padding: 5px 15px;
+        border: none;
+        border-radius: 10px;
+        flex-grow: 2;
+      }
+      input:focus {
+        outline: none;
+      }
+      button {
+        margin-left: 5px;
+        color: white;
+        background-color: #003D7C;
+        border: none;
+        border-top-right-radius: 9px;
+        border-bottom-right-radius: 9px;
+      }
+      #busStopList {
+        position: absolute;
+        height: 50%;
+        width: 80%;
+        left:10%;
+        top: 30%;
+        overflow: scroll;
+      }
+      #busStopTable {
+        width: 90%;
+      }
+      .busStopName {
+        font-family: 'Lato';
+        font-size: 1.2em;
+        padding: 5px;
+        width: 100%;
+        border-top: solid 1px;
+      }
+    </style>
+  </head>
+  <body>
+    <form>
+      <!--TODO: Filter function -->
+      <input type = 'text' placeholder = 'Where are you?'/>
+      <button>
+        <i class="material-icons">
+          arrow_forward
+        </i>
+      </button>
+    </form>
+    <div id = "busStopList">
+      <table id = 'busStopTable'>
+        <tr><td class = 'busStopName'>	AS5	</td></tr>
+        <tr><td class = 'busStopName'>	BIZ 2	</td></tr>
+        <tr><td class = 'busStopName'>	Botanic Gardens MRT	</td></tr>
+        <tr><td class = 'busStopName'>	Central Library	</td></tr>
+        <tr><td class = 'busStopName'>	College Green	</td></tr>
+        <tr><td class = 'busStopName'>	COM2	</td></tr>
+        <tr><td class = 'busStopName'>	EA	</td></tr>
+        <tr><td class = 'busStopName'>	Information Technology	</td></tr>
+        <tr><td class = 'busStopName'>	Kent Ridge Bus Terminal	</td></tr>
+        <tr><td class = 'busStopName'>	Kent Ridge MRT	</td></tr>
+        <tr><td class = 'busStopName'>	Kent Vale	</td></tr>
+        <tr><td class = 'busStopName'>	LT13	</td></tr>
+        <tr><td class = 'busStopName'>	LT27	</td></tr>
+        <tr><td class = 'busStopName'>	Museum	</td></tr>
+        <tr><td class = 'busStopName'>	Oei Tiong Ham Building	</td></tr>
+        <tr><td class = 'busStopName'>	Opp HSSML	</td></tr>
+        <tr><td class = 'busStopName'>	Opp Kent Ridge MRT	</td></tr>
+        <tr><td class = 'busStopName'>	Opp NUSS	</td></tr>
+        <tr><td class = 'busStopName'>	Opp TCOMS	</td></tr>
+        <tr><td class = 'busStopName'>	Opp UHall	</td></tr>
+        <tr><td class = 'busStopName'>	Opp University Health Centre	</td></tr>
+        <tr><td class = 'busStopName'>	Opp YIH	</td></tr>
+        <tr><td class = 'busStopName'>	PGP Hse 15	</td></tr>
+        <tr><td class = 'busStopName'>	PGP Hse 7	</td></tr>
+        <tr><td class = 'busStopName'>	PGPR	</td></tr>
+        <tr><td class = 'busStopName'>	Prince George's Park	</td></tr>
+        <tr><td class = 'busStopName'>	Raffles Hall	</td></tr>
+        <tr><td class = 'busStopName'>	S17	</td></tr>
+        <tr><td class = 'busStopName'>	TCOMS	</td></tr>
+        <tr><td class = 'busStopName'>	The Japanese Primary School	</td></tr>
+        <tr><td class = 'busStopName'>	UHall	</td></tr>
+        <tr><td class = 'busStopName'>	University Health Centre	</td></tr>
+        <tr><td class = 'busStopName'>	University Town	</td></tr>
+        <tr><td class = 'busStopName'>	Ventus (Opp LT13)	</td></tr>
+        <tr><td class = 'busStopName'>	YIH	</td></tr>
+      </table>
+    </div>
+  </body>
+</html>
